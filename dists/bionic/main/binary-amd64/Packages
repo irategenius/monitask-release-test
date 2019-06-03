@@ -1,5 +1,5 @@
 Package: igmt
-Version: 1.0.55
+Version: 1.0.56
 Architecture: amd64
 Maintainer: irategenius <irategenius@mail.ru>
 Installed-Size: 98779
@@ -7,11 +7,11 @@ Depends: libc6 (>= 2.17), libcurl4 (>= 7.16.2), libfontconfig1 (>= 2.12), libgcc
 Homepage: <insert the upstream URL, if relevant>
 Priority: required
 Section: net
-Filename: pool/main/i/igmt/igmt_1.0.55_amd64.deb
-Size: 28857772
-SHA256: ea0ecc77a59b7ab1c3c2d1df01e544484a35d80538a90a0b9a234a858ce8d73f
-SHA1: b94237f0b6e19025df0ea5f05e1c55d4e5336b8c
-MD5sum: fad1422d998c20ac711bcbf16590d389
+Filename: pool/main/i/igmt/igmt_1.0.56_amd64.deb
+Size: 28864048
+SHA256: 5807f8b677cffb07c8e0940ec9d45067bec20c323c9854c3875f9be9e0ab7730
+SHA1: a2ef665694b973447acee0db1383b1e861c4ccae
+MD5sum: 8e09b6233ea25d725ad66f8da6087e41
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
