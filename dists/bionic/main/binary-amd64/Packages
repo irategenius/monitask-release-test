@@ -1,17 +1,17 @@
 Package: igmt
-Version: 1.0.57
+Version: 1.0.59
 Architecture: amd64
 Maintainer: irategenius <irategenius@mail.ru>
-Installed-Size: 98779
+Installed-Size: 98864
 Depends: libc6 (>= 2.17), libcurl4 (>= 7.16.2), libfontconfig1 (>= 2.12), libgcc1 (>= 1:3.0), libgssapi-krb5-2 (>= 1.14+dfsg), liblttng-ust0 (>= 2.5.0), libstdc++6 (>= 4.8), zlib1g (>= 1:1.1.4), xdotool, libgdiplus, libglu1-mesa, freeglut3, mesa-common-dev, python3, xprintidle, python3-lz4
 Homepage: <insert the upstream URL, if relevant>
 Priority: required
 Section: net
-Filename: pool/main/i/igmt/igmt_1.0.57_amd64.deb
-Size: 28856604
-SHA256: 6e45d3d8590984a9eb7c78a13ebaade92d9fc02bcd5c3b2b1a2f61fed9a1262d
-SHA1: e4ed2c3354ad68b928dd6a58ae116deb5a742dea
-MD5sum: dc3c191f3a7eb82bd6cb81b542d0709c
+Filename: pool/main/i/igmt/igmt_1.0.59_amd64.deb
+Size: 28900280
+SHA256: 503cd856bf1c47a4337a64eec151e5cd62aa3b88be96dc971dbccd5912a6ffd1
+SHA1: 8d6ea17e03877c67042426ac9b2faf0ea8727fe7
+MD5sum: edce5c1fbc70ee2d090b089183b1dddd
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
